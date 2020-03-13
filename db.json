@@ -12,6 +12,8 @@
     "name": "typicode"
   },
   "usuario": [
-    {"id": 1, "correo": "admin@datalab.com"}
+    {"id": 1, "correo": "admin@datalab.com"},
+    {"id": 2, "correo": "tilolucho@datalab.com"},
+    {"id": 3, "correo": "tilolucho@gmail.com"}
   ]
 }
