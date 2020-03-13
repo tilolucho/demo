@@ -1,19 +1,145 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
   ],
   "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
   ],
   "profile": {
     "name": "typicode"
   },
   "usuario": [
-    {"id": 1, "correo": "admin@datalab.com"},
-    {"id": 2, "correo": "tilolucho@datalab.com"},
-    {"id": 3, "correo": "tilolucho@gmail.com"}
+    {
+      "idUsuario": 1,
+      "nombres": "Alejandro ",
+      "apellidos": "Osorio",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true,
+        "dinpActivarDesactivar": true
+      }
+    },
+    {
+      "idUsuario": 2,
+      "nombres": "Normas ",
+      "apellidos": "EH",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dipAdminReglas": true,
+        "dipActivarDesactivar": true
+      }
+    },
+    {
+      "idUsuario": 3,
+      "nombres": "Alejandro ",
+      "apellidos": "Osorio",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    },
+    {
+      "idUsuario": 4,
+      "nombres": "Normas ",
+      "apellidos": "EH",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    },
+    {
+      "idUsuario": 5,
+      "nombres": "Alejandro ",
+      "apellidos": "Osorio",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    },
+    {
+      "idUsuario": 6,
+      "nombres": "Normas ",
+      "apellidos": "EH",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    },
+    {
+      "idUsuario": 7,
+      "nombres": "Alejandro ",
+      "apellidos": "Osorio",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    },
+    {
+      "idUsuario": 8,
+      "nombres": "Alejandro ",
+      "apellidos": "Osorio",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    },
+    {
+      "idUsuario": 9,
+      "nombres": "Normas ",
+      "apellidos": "EH",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    },
+    {
+      "idUsuario": 10,
+      "nombres": "Alejandro ",
+      "apellidos": "Osorio",
+      "cargo": "Asistente",
+      "correo": "dl@datalab.com",
+      "password":"",
+      "permisos": {
+        "dinpVerReportes": true
+      }
+    }
   ]
 }
