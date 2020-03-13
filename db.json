@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "usuario": [
+    {"correo": "admin@datalab.com"}
+  ]
 }
