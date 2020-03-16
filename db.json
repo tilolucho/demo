@@ -30,7 +30,7 @@
   },
   "usuario": [
     {
-      "idUsuario": 1,
+      "id": 1,
       "nombres": "Alejandro ",
       "apellidos": "Osorio",
       "cargo": "Asistente",
